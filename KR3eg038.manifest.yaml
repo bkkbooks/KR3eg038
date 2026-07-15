@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg038/v1
 canonical_location: https://kanripo.org/bkk/KR3eg038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瘴瘧指南
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg038_000.yaml, hash: 'sha256:5e8fe7550f9af9095fb9c6b37c1ca2b80921e6f929e55db81e0b28af13e9eae3'}
-  - {seq: 1, filename: KR3eg038_001.yaml, hash: 'sha256:845f86b2322aa2bdd1997bbe8cfd3e12edab17a2d12fe37ca890312bdf97392c'}
-  - {seq: 3, filename: KR3eg038_003.yaml, hash: 'sha256:6bd9443e26ab70790d1b772d52c7916ed2fbee309d5ec63ff48d0a5f9e44ccec'}
+  - {seq: 0, filename: KR3eg038_000.yaml, hash: 'sha256:61fefba3e58f6fe1aee6dc772b8b89dda55f1be1043722f5bd757a90dd7b7484'}
+  - {seq: 1, filename: KR3eg038_001.yaml, hash: 'sha256:95f5fa1b41cbb960562c7d88238c1c15df46f249fd343c179721af3c5ef73fea'}
+  - {seq: 3, filename: KR3eg038_003.yaml, hash: 'sha256:1b61c6f8b02692da58b4a850f9efa060a68445734f98cef90fe1a93bfb8c5d8d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg038_000.markers.yaml, hash: 'sha256:d771d462556249c795c4d0bc22ef70724ac8ad564adb95422699252446071580'}
-  - {seq: 1, role: markers, filename: assets/KR3eg038_001.markers.yaml, hash: 'sha256:c250e1e15c83f7a6cd5e4ed47bc62e698760bb4e9905f0396aa8eb64545a3674'}
-  - {seq: 3, role: markers, filename: assets/KR3eg038_003.markers.yaml, hash: 'sha256:daa8ae94d332058b11bc3b84d02ffc996afba0384d8ba6452bb99806dfc951ef'}
+  - {seq: 0, role: markers, filename: assets/KR3eg038_000.markers.yaml, hash: 'sha256:440ec67c9be0a17fe011f5e3e3312bf9e938779339e8def5251dfcce32dc1b72'}
+  - {seq: 1, role: markers, filename: assets/KR3eg038_001.markers.yaml, hash: 'sha256:0dee33d425de263f69bf814e7592ee9a2c681889d5e9f36a19c515c3ece69091'}
+  - {seq: 3, role: markers, filename: assets/KR3eg038_003.markers.yaml, hash: 'sha256:711d08330a59f65b2fa1a45ba9c53057da5494b5c05f19b138941feb1a78a317'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1335,4 +1335,7 @@ table_of_contents:
   label: 蜜導法
   type: section
   level: 3
-hash: sha256:10d0e4b9edca3d5ae33d41513eef9beb7bc56042a6e744a09d7112a5d047e7d9
+hash: sha256:52ed60a920f9eecef79d8bf8a7325c94dd7c300b2e69922754c3ab1ea856fe28
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
