@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg038_000.markers.yaml, hash: 'sha256:440ec67c9be0a17fe011f5e3e3312bf9e938779339e8def5251dfcce32dc1b72'}
   - {seq: 1, role: markers, filename: assets/KR3eg038_001.markers.yaml, hash: 'sha256:0dee33d425de263f69bf814e7592ee9a2c681889d5e9f36a19c515c3ece69091'}
-  - {seq: 3, role: markers, filename: assets/KR3eg038_003.markers.yaml, hash: 'sha256:711d08330a59f65b2fa1a45ba9c53057da5494b5c05f19b138941feb1a78a317'}
+  - {seq: 3, role: markers, filename: assets/KR3eg038_003.markers.yaml, hash: 'sha256:a8df197d909b1d2a8c9533bce8577196ba35ffee490d149eee7145fba7388456'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1335,7 +1335,7 @@ table_of_contents:
   label: 蜜導法
   type: section
   level: 3
-hash: sha256:52ed60a920f9eecef79d8bf8a7325c94dd7c300b2e69922754c3ab1ea856fe28
+hash: sha256:8403497299e26ebeb744a3e087580fa24257413df494b6c3313372b67c70eba9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

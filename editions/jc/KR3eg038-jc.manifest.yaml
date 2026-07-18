@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg038_000-jc.markers.yaml, hash: 'sha256:d8ccea5286d392d6eb100579ed8e379df960667358f357b98c54be9a9dc83670'}
   - {seq: 1, role: markers, filename: assets/KR3eg038_001-jc.markers.yaml, hash: 'sha256:ba4e8fbaee4c30a52b83e0bb15304c5347a96a08c24e6dfa4323a6acfac0ea35'}
-  - {seq: 3, role: markers, filename: assets/KR3eg038_003-jc.markers.yaml, hash: 'sha256:1ccd644c68358c94ad6018a1dfd4e43a392f958497340194de16ac7a76890aa7'}
+  - {seq: 3, role: markers, filename: assets/KR3eg038_003-jc.markers.yaml, hash: 'sha256:9d2bb2a79220871b4be8c730caa3f51537ba849ba14e5b01cda71e8d43094334'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1335,4 +1335,4 @@ table_of_contents:
   label: 蜜導法
   type: section
   level: 3
-hash: sha256:53211e1f1a7ee99108248cd8a346dca71883c50c59e00345a08bbe0ca4e71fee
+hash: sha256:b50acf53ae428e8c8072d205930cb3177aa0291bc247f5899206010488ceca20
